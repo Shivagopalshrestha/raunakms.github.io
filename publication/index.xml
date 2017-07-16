@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<<<<<<< HEAD
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Raunak Shrestha</title>
@@ -21,3 +22,27 @@
     
   </channel>
 </rss>
+=======
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Raunak Shrestha</title>
+    <link>http://raunakms.github.io/publication/</link>
+    <description>Recent content in Publications on Raunak Shrestha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Raunak Shrestha</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HIT&#39;nDRIVE: Patient-Specific Multi-Driver Gene Prioritization for Precision Oncology</title>
+      <link>http://raunakms.github.io/publication/2017_hitndrive/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2017_hitndrive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
+>>>>>>> ddf31fede07d4ccb6d0abfcadad0220f44712114
