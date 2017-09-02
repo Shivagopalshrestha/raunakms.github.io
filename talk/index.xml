@@ -1,14 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Raunak Shrestha</title>
+    <title>Upcoming Conferences &amp; Events on Raunak Shrestha</title>
     <link>http://raunakms.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Raunak Shrestha</description>
+    <description>Recent content in Upcoming Conferences &amp; Events on Raunak Shrestha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Raunak Shrestha</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HIT&#39;nDRIVE: Patient-Specific Multi-Driver Gene Prioritization for Precision Oncology</title>
+      <link>http://raunakms.github.io/talk/20171105_ccrc/</link>
+      <pubDate>Sun, 05 Nov 2017 11:00:00 +0000</pubDate>
+      
+      <guid>http://raunakms.github.io/talk/20171105_ccrc/</guid>
+      <description>&lt;p&gt;I will be giving a talk at the Terry Fox Research Institute &lt;a href=&#34;http://tfri.ca/en/NewsEvents/annual-scientific-meeting-2017/asm&#34; target=&#34;_blank&#34;&gt;8th Annual Scientific Meeting (ASM)&lt;/a&gt;.
+Also check for my poster during poster sessions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HIT&#39;nDRIVE: Patient-Specific Multi-Driver Gene Prioritization for Precision Oncology</title>
+      <link>http://raunakms.github.io/talk/20171104_tfri/</link>
+      <pubDate>Sat, 04 Nov 2017 11:00:00 +0000</pubDate>
+      
+      <guid>http://raunakms.github.io/talk/20171104_tfri/</guid>
+      <description>&lt;p&gt;I will be giving a talk at the Terry Fox Research Institute [8th Annual Scientific Meeting (ASM)].&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HIT&#39;nDRIVE: Patient-Specific Multi-Driver Gene Prioritization for Precision Oncology</title>
+      <link>http://raunakms.github.io/talk/20171101_cshl/</link>
+      <pubDate>Wed, 01 Nov 2017 11:00:00 +0000</pubDate>
+      
+      <guid>http://raunakms.github.io/talk/20171101_cshl/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
