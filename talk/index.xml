@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conferences &amp; Events on Raunak Shrestha</title>
+    <link>http://raunakms.github.io/talk/</link>
+    <description>Recent content in Conferences &amp; Events on Raunak Shrestha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Raunak Shrestha</copyright>
+    <lastBuildDate>Wed, 04 Aug 2010 11:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://raunakms.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Inactivation of BAP1 Predicts a Distinct Immunogenic Class of Malignant Peritoneal Mesothelioma</title>
+      <link>http://raunakms.github.io/talk/20180928_terryfox/</link>
+      <pubDate>Tue, 25 Sep 2018 09:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/talk/20180928_terryfox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BAP1 Loss Predicts Therapeutic Vulnerability in Malignant Peritoneal Mesothelioma</title>
+      <link>http://raunakms.github.io/talk/20180502_imig/</link>
+      <pubDate>Fri, 04 May 2018 11:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/talk/20180502_imig/</guid>
+      <description>I will be giving a talk at &amp;ldquo;MS09 - Peritoneal Mesothelioma&amp;rdquo; parallel mini-symposia at iMig2018 (May 4, 2018: Provinces II - Level 4, 11:00 - 12:30).</description>
+    </item>
+    
+    <item>
+      <title>HIT&#39;nDRIVE: Patient-Specific Multi-Driver Gene Prioritization for Precision Oncology</title>
+      <link>http://raunakms.github.io/talk/20171105_ccrc/</link>
+      <pubDate>Sun, 05 Nov 2017 11:00:00 -0800</pubDate>
+      
+      <guid>http://raunakms.github.io/talk/20171105_ccrc/</guid>
+      <description>I will be giving a talk at the Terry Fox Research Institute 8th Annual Scientific Meeting (ASM). Also check for my poster during poster sessions.</description>
+    </item>
+    
+    <item>
+      <title>HIT&#39;nDRIVE: Patient-Specific Multi-Driver Gene Prioritization for Precision Oncology</title>
+      <link>http://raunakms.github.io/talk/20171104_tfri/</link>
+      <pubDate>Sat, 04 Nov 2017 11:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/talk/20171104_tfri/</guid>
+      <description>I will be giving a talk at the Terry Fox Research Institute [8th Annual Scientific Meeting (ASM)].</description>
+    </item>
+    
+    <item>
+      <title>HIT&#39;nDRIVE: Patient-Specific Multi-Driver Gene Prioritization for Precision Oncology</title>
+      <link>http://raunakms.github.io/talk/20171101_cshl/</link>
+      <pubDate>Wed, 01 Nov 2017 11:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/talk/20171101_cshl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translating Big-Data to Precision Oncology</title>
+      <link>http://raunakms.github.io/talk/20170217_terryfox/</link>
+      <pubDate>Fri, 17 Feb 2017 09:30:00 -0800</pubDate>
+      
+      <guid>http://raunakms.github.io/talk/20170217_terryfox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HIT&#39;nDRIVE: Patient-Specific Multi-Driver Gene Prioritization for Precision Oncology</title>
+      <link>http://raunakms.github.io/talk/20161103_vanbug/</link>
+      <pubDate>Thu, 03 Nov 2016 18:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/talk/20161103_vanbug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASHG-2016</title>
+      <link>http://raunakms.github.io/talk/20161018_ashg/</link>
+      <pubDate>Tue, 18 Oct 2016 09:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/talk/20161018_ashg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HIT&#39;nDRIVE: Patient-Specific Multi-Driver Gene Prioritization for Precision Oncology</title>
+      <link>http://raunakms.github.io/talk/20161003_giw/</link>
+      <pubDate>Mon, 03 Oct 2016 09:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/talk/20161003_giw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HIT&#39;nDRIVE: Patient-Specific Multi-Driver Gene Prioritization to Guide Precision Cancer Medicine</title>
+      <link>http://raunakms.github.io/talk/20160411_simons/</link>
+      <pubDate>Tue, 12 Apr 2016 09:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/talk/20160411_simons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCAWG-2016</title>
+      <link>http://raunakms.github.io/talk/20160407_pcawg/</link>
+      <pubDate>Thu, 07 Apr 2016 09:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/talk/20160407_pcawg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

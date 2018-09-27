@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Raunak Shrestha</title>
+    <link>http://raunakms.github.io/tags/</link>
+    <description>Recent content in Tags on Raunak Shrestha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Raunak Shrestha</copyright>
+    <lastBuildDate>Mon, 20 Aug 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://raunakms.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://raunakms.github.io/tags/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>http://raunakms.github.io/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>http://raunakms.github.io/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Raunak Shrestha</title>
+    <link>http://raunakms.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Raunak Shrestha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Raunak Shrestha</copyright>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://raunakms.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pathway and network analysis of more than 2,500 whole cancer genomes</title>
+      <link>http://raunakms.github.io/publication/2018_pcawg/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2018_pcawg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-throughput detection of RNA processing in bacteria</title>
+      <link>http://raunakms.github.io/publication/2018_rnabacteria/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2018_rnabacteria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Genomic Signature for early metastasis prediction in Prostate Cancer</title>
+      <link>http://raunakms.github.io/publication/2018_dgs/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2018_dgs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated Multi-omics Molecular Subtyping Predicts Therapeutic Vulnerability in Malignant Peritoneal Mesothelioma</title>
+      <link>http://raunakms.github.io/publication/2018_mesothelioma/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2018_mesothelioma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combinatorial Detection of Conserved Alteration Patterns for Identifying Cancer Subnetworks</title>
+      <link>http://raunakms.github.io/publication/2018_cdcap/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2018_cdcap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metagenomic and metatranscriptomic analysis of human prostate microbiota from patients with prostate cancer</title>
+      <link>http://raunakms.github.io/publication/2018_prostatemicrobiome/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2018_prostatemicrobiome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HIT&#39;nDRIVE: Patient-Specific Multi-Driver Gene Prioritization for Precision Oncology</title>
+      <link>http://raunakms.github.io/publication/2017_hitndrive/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2017_hitndrive/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>BIRC6-targeting as potential therapy for advanced, enzalutamide-resistant prostate cancer</title>
+      <link>http://raunakms.github.io/publication/2016_birc6/</link>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2016_birc6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneity in the inter-tumor transcriptome of high risk prostate cancer</title>
+      <link>http://raunakms.github.io/publication/2014_highriskpca/</link>
+      <pubDate>Tue, 26 Aug 2014 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2014_highriskpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Meta-Analysis Approach for Characterizing Pan-Cancer Mechanisms of Drug Sensitivity in Cell Lines</title>
+      <link>http://raunakms.github.io/publication/2014_drugresp/</link>
+      <pubDate>Fri, 18 Jul 2014 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2014_drugresp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of KatG Ser315Thr Mutation in Multidrug Resistant Mycobacterium tuberculosis and SLC11A1 Polymorphism in Multidrug Resistance Tuberculosis in Central Development Region of Nepal Using PCR-RFLP Technique: A Pilot Study</title>
+      <link>http://raunakms.github.io/publication/2011_mtb/</link>
+      <pubDate>Tue, 18 Jan 2011 00:00:00 -0800</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2011_mtb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

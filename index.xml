@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raunak Shrestha on Raunak Shrestha</title>
+    <link>http://raunakms.github.io/</link>
+    <description>Recent content in Raunak Shrestha on Raunak Shrestha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Raunak Shrestha</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Inactivation of BAP1 Predicts a Distinct Immunogenic Class of Malignant Peritoneal Mesothelioma</title>
+      <link>http://raunakms.github.io/talk/20180928_terryfox/</link>
+      <pubDate>Tue, 25 Sep 2018 09:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/talk/20180928_terryfox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pathway and network analysis of more than 2,500 whole cancer genomes</title>
+      <link>http://raunakms.github.io/publication/2018_pcawg/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2018_pcawg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biography</title>
+      <link>http://raunakms.github.io/pages/biography/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/pages/biography/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a Bioinformatics Post-doctoral scholar with &lt;a href=&#34;http://www.prostatecentre.com/about-us/people/dr-colin-collins&#34; target=&#34;_blank&#34;&gt;Dr. Colin Collins&lt;/a&gt; at the &lt;a href=&#34;http://www.ubc.ca/&#34; target=&#34;_blank&#34;&gt;University of British Columbia (UBC)&lt;/a&gt;. I&amp;rsquo;m stationed at the Laboratory for Advanced Genome Analysis (LAGA), &lt;a href=&#34;http://www.prostatecentre.com/&#34; target=&#34;_blank&#34;&gt;Vancouver Prostate Center&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I did my PhD in Bioinformatics from UBC under the under the supervision of &lt;a href=&#34;http://www.prostatecentre.com/about-us/people/dr-colin-collins&#34; target=&#34;_blank&#34;&gt;Dr. Colin Collins&lt;/a&gt; and &lt;a href=&#34;https://www.soic.indiana.edu/all-people/profile.html?profile_id=291&#34; target=&#34;_blank&#34;&gt;Dr. Cenk Sahinalp&lt;/a&gt;. I defended my PhD on July 27,2018.
+I&amp;rsquo;m working in conjunction with &lt;a href=&#34;http://www.iu.edu/~compgen/&#34; target=&#34;_blank&#34;&gt;Lab for Bioinformatics and Computational Genomics&lt;/a&gt; at Indiana University.&lt;/p&gt;
+
+&lt;p&gt;I reveived my undergraduate training (B.Tech) in Biotechnology from &lt;a href=&#34;http://www.ku.edu.np/&#34; target=&#34;_blank&#34;&gt;Kathmandu University&lt;/a&gt;, Nepal (2009). After graduation, I spent a couple of years working as Resarch Associate at The &lt;a href=&#34;http://cmdn.org.np/&#34; target=&#34;_blank&#34;&gt;Center for Molecular Dynamics Nepal (CMDN)&lt;/a&gt; before moving to Canada for my PhD.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Statement</title>
+      <link>http://raunakms.github.io/pages/research_statement/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/pages/research_statement/</guid>
+      <description>&lt;p&gt;My primary research goals are directed towards understanding the complex nature of cancer by computationally modelling cancer omics data. My research is primarily focused on development and application of computational methods integrating cancer omics data so as to enable precision oncology. The methods I develop leverage complex network approaches which helps to bring these multi-dimensional data into a single-analysis framework.&lt;/p&gt;
+
+&lt;p&gt;My current research focuses on exploring this idea analyzing genotype-phenotype relationships in cancer to prioritize cancer driver genes and precision therapeutics. Most recently, my research led to define a novel molecular subtype as well as biomarker stratifying this subtype of a rare cancer of abdomen potentially vulnerable to immunotherapy.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, I would like to understand the spatial heterogeneity in cancer. I believe, communication between tumor and its micro-environment and vice-versa is critical for cancer progression and therapeutic resistance. Using single-cell multi-omics, I would like to study how tumor-microenvironment communication shapes cancer evolution and how we can leverage this knowledge to develop novel cancer therapeutics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational prioritization of cancer driver genes for precision oncology</title>
+      <link>http://raunakms.github.io/publication/2018_phdthesis/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2018_phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://raunakms.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BAP1 Loss Predicts Therapeutic Vulnerability in Malignant Peritoneal Mesothelioma</title>
+      <link>http://raunakms.github.io/talk/20180502_imig/</link>
+      <pubDate>Fri, 04 May 2018 11:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/talk/20180502_imig/</guid>
+      <description>&lt;p&gt;I will be giving a talk at &amp;ldquo;&lt;a href=&#34;http://www.imig2018.org/wp-content/uploads/2018/02/iMig-2018-Scientific-Program.pdf&#34; target=&#34;_blank&#34;&gt;MS09 - Peritoneal Mesothelioma&lt;/a&gt;&amp;rdquo; parallel mini-symposia at iMig2018 (May 4, 2018: Provinces II - Level 4, 11:00 - 12:30).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High-throughput detection of RNA processing in bacteria</title>
+      <link>http://raunakms.github.io/publication/2018_rnabacteria/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2018_rnabacteria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Genomic Signature for early metastasis prediction in Prostate Cancer</title>
+      <link>http://raunakms.github.io/publication/2018_dgs/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2018_dgs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated Multi-omics Molecular Subtyping Predicts Therapeutic Vulnerability in Malignant Peritoneal Mesothelioma</title>
+      <link>http://raunakms.github.io/publication/2018_mesothelioma/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2018_mesothelioma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combinatorial Detection of Conserved Alteration Patterns for Identifying Cancer Subnetworks</title>
+      <link>http://raunakms.github.io/publication/2018_cdcap/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2018_cdcap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultra High-Dimensional Nonlinear Feature Selection for Big Biological Data</title>
+      <link>http://raunakms.github.io/publication/2018_featureselection/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 -0800</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2018_featureselection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metagenomic and metatranscriptomic analysis of human prostate microbiota from patients with prostate cancer</title>
+      <link>http://raunakms.github.io/publication/2018_prostatemicrobiome/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2018_prostatemicrobiome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HIT&#39;nDRIVE: Patient-Specific Multi-Driver Gene Prioritization for Precision Oncology</title>
+      <link>http://raunakms.github.io/talk/20171105_ccrc/</link>
+      <pubDate>Sun, 05 Nov 2017 11:00:00 -0800</pubDate>
+      
+      <guid>http://raunakms.github.io/talk/20171105_ccrc/</guid>
+      <description>&lt;p&gt;I will be giving a talk at the Terry Fox Research Institute &lt;a href=&#34;http://tfri.ca/en/NewsEvents/annual-scientific-meeting-2017/asm&#34; target=&#34;_blank&#34;&gt;8th Annual Scientific Meeting (ASM)&lt;/a&gt;.
+Also check for my poster during poster sessions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HIT&#39;nDRIVE: Patient-Specific Multi-Driver Gene Prioritization for Precision Oncology</title>
+      <link>http://raunakms.github.io/talk/20171104_tfri/</link>
+      <pubDate>Sat, 04 Nov 2017 11:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/talk/20171104_tfri/</guid>
+      <description>&lt;p&gt;I will be giving a talk at the Terry Fox Research Institute [8th Annual Scientific Meeting (ASM)].&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

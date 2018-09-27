@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Raunak Shrestha</title>
+    <link>http://raunakms.github.io/home/</link>
+    <description>Recent content in Homes on Raunak Shrestha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Raunak Shrestha</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://raunakms.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://raunakms.github.io/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>http://raunakms.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
+(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://raunakms.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/home/about/</guid>
+      <description>I&amp;rsquo;m a Bioinformatics Post-doctoral scholar with Dr. Colin Collins at the University of British Columbia (UBC). I&amp;rsquo;m stationed at the Laboratory for Advanced Genome Analysis (LAGA), Vancouver Prostate Center.
+I did my PhD in Bioinformatics from UBC under the under the supervision of Dr. Colin Collins and Dr. Cenk Sahinalp. I&amp;rsquo;m working in conjunction with Lab for Bioinformatics and Computational Genomics at Indiana University.
+My research focuses on development of computational algorithms and its applications on big biological data to enable precision oncology using systems medicine approach.</description>
+    </item>
+    
+    <item>
+      <title>Research Statement</title>
+      <link>http://raunakms.github.io/home/research/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/home/research/</guid>
+      <description>
+My primary research goals are directed towards understanding the complex nature of cancer by computationally modelling cancer omics data. My research is primarily focused on development and application of computational methods integrating cancer omics data so as to enable precision oncology. The methods I develop leverage complex network approaches which helps to bring these multi-dimensional data into a single-analysis framework. </description>
+    </item>
+    
+    <item>
+      <title>Research Statement</title>
+      <link>http://raunakms.github.io/home/state_research/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/home/state_research/</guid>
+      <description>My primary research goals are directed towards understanding the complex nature of cancer by computationally modelling cancer omics data. My research is primarily focused on development and application of computational methods integrating cancer omics data so as to enable precision oncology. The methods I develop leverage complex network approaches which helps to bring these multi-dimensional data into a single-analysis framework.
+My current research focuses on exploring this idea analyzing genotype-phenotype relationships in cancer to prioritize cancer driver genes and precision therapeutics.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>http://raunakms.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://raunakms.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>http://raunakms.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/home/publications/</guid>
+      <description>PubMed | Google Scholar | Computer Science Bibliography (dblp)</description>
+    </item>
+    
+    <item>
+      <title>Softwares</title>
+      <link>http://raunakms.github.io/home/softwares/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/home/softwares/</guid>
+      <description> HIT&amp;rsquo;nDRIVE - An algorithm for cancer driver genes prioritization
+ cd-CAP - Combinatorial Detection of Conserved Alteration Patterns for Identifying Cancer Subnetworks
+  </description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>http://raunakms.github.io/home/talks_selected/</link>
+      <pubDate>Sat, 04 Aug 2018 11:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conferences &amp; Events</title>
+      <link>http://raunakms.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://raunakms.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://raunakms.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://raunakms.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+I am a teaching instructor for the following courses at University X:
+ CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://raunakms.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>http://raunakms.github.io/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/home/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://raunakms.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
