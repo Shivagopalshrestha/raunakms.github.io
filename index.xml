@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>First Nepal Winter-School on AI</title>
+      <link>http://raunakms.github.io/talk/20181220_ai_ktm/</link>
+      <pubDate>Wed, 31 Oct 2018 09:00:00 -0700</pubDate>
+      
+      <guid>http://raunakms.github.io/talk/20181220_ai_ktm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Inactivation of BAP1 Predicts a Distinct Immunogenic Class of Malignant Peritoneal Mesothelioma</title>
       <link>http://raunakms.github.io/talk/20180928_terryfox/</link>
       <pubDate>Tue, 25 Sep 2018 09:00:00 -0700</pubDate>
@@ -236,16 +245,6 @@ I&amp;rsquo;m working in conjunction with &lt;a href=&#34;http://www.iu.edu/~com
       <guid>http://raunakms.github.io/talk/20171105_ccrc/</guid>
       <description>&lt;p&gt;I will be giving a talk at the Terry Fox Research Institute &lt;a href=&#34;http://tfri.ca/en/NewsEvents/annual-scientific-meeting-2017/asm&#34; target=&#34;_blank&#34;&gt;8th Annual Scientific Meeting (ASM)&lt;/a&gt;.
 Also check for my poster during poster sessions.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>HIT&#39;nDRIVE: Patient-Specific Multi-Driver Gene Prioritization for Precision Oncology</title>
-      <link>http://raunakms.github.io/talk/20171104_tfri/</link>
-      <pubDate>Sat, 04 Nov 2017 11:00:00 -0700</pubDate>
-      
-      <guid>http://raunakms.github.io/talk/20171104_tfri/</guid>
-      <description>&lt;p&gt;I will be giving a talk at the Terry Fox Research Institute [8th Annual Scientific Meeting (ASM)].&lt;/p&gt;
 </description>
     </item>
     
