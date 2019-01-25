@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>BAP1 Haploinsufficiency Predicts a Distinct Immunogenic Class of Malignant Peritoneal Mesothelioma</title>
+      <link>http://raunakms.github.io/publication/2018_mesothelioma/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2018_mesothelioma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combinatorial Detection of Conserved Alteration Patterns for Identifying Cancer Subnetworks</title>
+      <link>http://raunakms.github.io/publication/2018_cdcap/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2018_cdcap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>First Nepal Winter-School on AI</title>
       <link>http://raunakms.github.io/talk/20181220_ai_ktm/</link>
       <pubDate>Wed, 31 Oct 2018 09:00:00 -0700</pubDate>
@@ -198,24 +216,6 @@ I&amp;rsquo;m working in conjunction with &lt;a href=&#34;http://www.iu.edu/~com
       <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>http://raunakms.github.io/publication/2018_dgs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BAP1 Haploinsufficiency Predicts a Distinct Immunogenic Class of Malignant Peritoneal Mesothelioma</title>
-      <link>http://raunakms.github.io/publication/2018_mesothelioma/</link>
-      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://raunakms.github.io/publication/2018_mesothelioma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Combinatorial Detection of Conserved Alteration Patterns for Identifying Cancer Subnetworks</title>
-      <link>http://raunakms.github.io/publication/2018_cdcap/</link>
-      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://raunakms.github.io/publication/2018_cdcap/</guid>
       <description></description>
     </item>
     

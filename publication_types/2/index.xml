@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Raunak Shrestha</copyright>
-    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://raunakms.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BAP1 Haploinsufficiency Predicts a Distinct Immunogenic Class of Malignant Peritoneal Mesothelioma</title>
+      <link>http://raunakms.github.io/publication/2018_mesothelioma/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2018_mesothelioma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combinatorial Detection of Conserved Alteration Patterns for Identifying Cancer Subnetworks</title>
+      <link>http://raunakms.github.io/publication/2018_cdcap/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://raunakms.github.io/publication/2018_cdcap/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pathway and network analysis of more than 2,500 whole cancer genomes</title>
@@ -36,24 +54,6 @@
       <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>http://raunakms.github.io/publication/2018_dgs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BAP1 Haploinsufficiency Predicts a Distinct Immunogenic Class of Malignant Peritoneal Mesothelioma</title>
-      <link>http://raunakms.github.io/publication/2018_mesothelioma/</link>
-      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://raunakms.github.io/publication/2018_mesothelioma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Combinatorial Detection of Conserved Alteration Patterns for Identifying Cancer Subnetworks</title>
-      <link>http://raunakms.github.io/publication/2018_cdcap/</link>
-      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://raunakms.github.io/publication/2018_cdcap/</guid>
       <description></description>
     </item>
     
